@@ -1,7 +1,9 @@
-# Solve Sudoku with AI
+# Artificial-Intelligence
+AI ==> Artficial Intelligence
 
-## Synopsis
+# Sudoku
 
+AI stands for artificial intelligence, where intelligence is defined as the ability to acquire and apply knowledge.		
 In this project, students will extend the Sudoku-solving agent developed in the classroom lectures to solve _diagonal_ Sudoku puzzles. A diagonal Sudoku puzzle is identical to traditional Sudoku puzzles with the added constraint that the boxes on the two main diagonals of the board must also contain the digits 1-9 in each cell (just like the rows, columns, and 3x3 blocks).
 
 ## Instructions
