@@ -1,0 +1,16 @@
+{
+    "critiques": {
+        "689": {
+            "rubric_items": {
+                "5531": {
+                    "result": "passed",
+                    "observation": "Correct!"
+                },
+                "5530": {
+                    "result": "passed",
+                    "observation": "Correct!"
+                }
+            }
+        }
+    }
+}
